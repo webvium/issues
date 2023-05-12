@@ -1,6 +1,4 @@
 # issues
-The Project Webvium issues tracking repository.
+The Project Webvium issue tracking repository.
 
-- Closed Issues are issue that been fixed and applied to the stable release
-- Open Issues are the issue that is currently fixing or already been fixed but wasn't yet release
-- This issues tracking repo was created to minitor Webvium v2.8 and future versions
+Created to track general issues of Project Webvium.
